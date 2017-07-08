@@ -27,21 +27,6 @@ body {
 /* ------ Home ------ */
 
 
-.homebanner {
-	height: 120px;
-	background-color: #3c4446;
-}
-
-.homebannertext {
-	text-align:center;
-	padding-top: 35px;
-	font-family: 'Open Sans Condensed',serif;
-	font-weight: bold;
-	color:white;
-}
-.homebannertext span {
-	color: #d6441b;
-}
 
 #logo {
 	text-decoration: none;
